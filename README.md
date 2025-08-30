@@ -1,8 +1,7 @@
 # Taronga-Conservation-Society-Australia
 
-#Research & Data Analytics Intern (Group Project)
-#Mar 2025 – Jun 2025
-#Taronga Conservation Society Australia – Taronga Zoo Operations – Sydney, NSW
+Research & Data Analytics Intern (Group Project)
+Taronga Conservation Society Australia – Taronga Zoo Operations – Sydney, NSW
 
 #Collaborated in a 4-member team on a time and motion study aimed at improving operational efficiency in the Carnivore Unit.
 
